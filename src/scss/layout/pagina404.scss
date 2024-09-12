@@ -1,0 +1,10 @@
+@use '../base/variables' as v;
+@use '../base/mixins' as m;
+
+.p404 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
